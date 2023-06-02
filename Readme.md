@@ -10,7 +10,7 @@ This project bring a game to remember the language in Java.
 </p>
 
 <p align="center">
-    <img src="https://https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java/total?logo=Javascript" />
 </p>
 
 ## Instalation
