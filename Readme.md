@@ -1,6 +1,6 @@
 # Guess game in Java
 
-This project bring a game to remember the language in Java.
+This project bring a game to remember the language Java.
 
 <p align="center">
   <img src="https://img.shields.io/github/downloads/ThayRibeiro0/project0.2/total?color=%2300ff00&logo=Github&style=plastic" />
