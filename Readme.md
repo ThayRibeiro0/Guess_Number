@@ -13,7 +13,7 @@ This project bring a game to remember the language Java.
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
 </p>
 
-## Instalation
+## Installation
 
 1 - It's necessary to run this project, in the Desktop or Laptop, the Java Development Kit(JDK), that you can find in the Oracle website, and this have the java compiler(javac) and others tools to Java development. Besides that you need one Integrated Development Environment(IDE) like Eclipse and NetBeans and if want one text editor like VS Code to better your development. 
 
